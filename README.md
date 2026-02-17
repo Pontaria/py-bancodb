@@ -16,7 +16,6 @@ Para a geração de dados "humanos" e realistas (Nomes, CPFs validados, Cartões
   * Prevenção de transferências para a própria conta.
 * **Alta Performance:** Substituição de `for loops` por operações vetoriais do `numpy` (`np.where`, arrays booleanos, escolhas randomizadas em bloco).
 * **Exportação Flexível:** Suporte para salvar os lotes em `.csv`, `.xlsx` ou `.parquet`.
-* **💻 Modo Emoção (Matrix CLI):** Uma interface visual no terminal que simula uma invasão/processamento em tempo real estilo "Federal Bureau of Control", exibindo amostras dos dados gerados dinamicamente.
 
 ## 📦 Instalação
 
